@@ -10,6 +10,7 @@ public class Test {
 	public static int sum() {
 		int a=20;
 		int b=80;
+		System.out.println(b-a);
 		return a+b;
 	}
 }
